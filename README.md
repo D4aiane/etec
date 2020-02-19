@@ -1,2 +1,2 @@
-# etec
-curso de Laravel
+# Etec
+## curso de Laravel
